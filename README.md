@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/%C3%A1lvaro-berodia-gonz%C3%A1lez-82780830b">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alvaro-berodia">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:aberodiag@gmail.com">Email</a>
 </div>

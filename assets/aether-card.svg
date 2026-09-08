@@ -1,0 +1,13 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="220"><stop stop-color="#0A1024"/><stop offset="1" stop-color="#241048"/></linearGradient>
+    <linearGradient id="bolt" x1="622" y1="37" x2="556" y2="180"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+  </defs>
+  <rect width="760" height="220" rx="20" fill="url(#bg)"/>
+  <circle cx="620" cy="110" r="93" fill="#8B5CF6" fill-opacity="0.07"/><circle cx="620" cy="110" r="68" stroke="#00E5FF" stroke-opacity="0.12"/>
+  <path d="M646 35L566 119H613L583 185L679 91H630L646 35Z" fill="url(#bolt)"/>
+  <text x="42" y="94" fill="#8899B8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">IN DEVELOPMENT</text>
+  <text x="42" y="142" fill="#F6F4FF" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">Aether</text>
+  <text x="42" y="174" fill="#A89DBA" font-family="Arial, Helvetica, sans-serif" font-size="16">Modular event-driven backend</text>
+  <rect x="1" y="1" width="758" height="218" rx="19" stroke="#8B5CF6" stroke-opacity="0.22" stroke-width="2"/>
+</svg>

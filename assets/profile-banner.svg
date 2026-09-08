@@ -1,0 +1,53 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B18"/>
+      <stop offset="0.55" stop-color="#0C1630"/>
+      <stop offset="1" stop-color="#130B2A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="78" x2="682" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientTransform="translate(934 161) rotate(90) scale(210 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowP" cx="0" cy="0" r="1" gradientTransform="translate(1110 36) rotate(135) scale(250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#55DFFF" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowC)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowP)"/>
+  <path d="M0 278C205 213 328 315 526 258C734 198 918 242 1200 128" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="2"/>
+
+  <rect x="72" y="62" width="6" height="196" rx="3" fill="url(#accent)"/>
+  <text x="112" y="117" fill="#8EA6C9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+  <text x="108" y="181" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="800">Álvaro Berodia</text>
+  <text x="112" y="226" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">BACKEND DEVELOPER</text>
+  <text x="112" y="260" fill="#8394B4" font-family="Arial, Helvetica, sans-serif" font-size="16">APIs  •  Automation  •  Event-driven systems</text>
+
+  <g opacity="0.95">
+    <path d="M844 86L938 53L1032 91L1086 166L1038 246L939 269L850 229L810 157L844 86Z" stroke="#00E5FF" stroke-opacity="0.27" stroke-width="2"/>
+    <path d="M844 86L939 160L1032 91M939 160L1038 246M939 160L850 229M939 160L938 53M810 157L939 160L1086 166" stroke="#8B5CF6" stroke-opacity="0.3"/>
+    <circle cx="939" cy="160" r="44" fill="#0B1830" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="939" cy="160" r="51" stroke="#00E5FF" stroke-opacity="0.16"/>
+    <text x="939" y="170" text-anchor="middle" fill="#EAFBFF" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800">AB</text>
+    <g fill="#091426" stroke="#00E5FF" stroke-width="2">
+      <circle cx="844" cy="86" r="8"/><circle cx="938" cy="53" r="8"/><circle cx="1032" cy="91" r="8"/>
+      <circle cx="1086" cy="166" r="8"/><circle cx="1038" cy="246" r="8"/><circle cx="939" cy="269" r="8"/>
+      <circle cx="850" cy="229" r="8"/><circle cx="810" cy="157" r="8"/>
+    </g>
+    <circle cx="939" cy="160" r="72" stroke="#00E5FF" stroke-opacity="0.08" stroke-width="18" filter="url(#shadow)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="23" stroke="#70E9FF" stroke-opacity="0.13" stroke-width="2"/>
+</svg>

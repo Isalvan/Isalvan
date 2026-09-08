@@ -18,49 +18,35 @@ I enjoy turning everyday problems into software I actually use, with special att
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Isalvan/flowt">
-        <img src="./assets/flowt-card.svg" width="100%" alt="Flowt project" />
-      </a>
-      <br />
-      Personal finance platform that transforms bank notifications from Gmail into structured movements and financial insights.
-      <br /><br />
-      <strong>React · TypeScript · Python · Firebase · Gmail API · Gemini</strong>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Isalvan/jobify-devel">
-        <img src="./assets/jobify-card.svg" width="100%" alt="Jobify Devel project" />
-      </a>
-      <br />
-      Employment platform with role-based access, job applications, notifications, chat and a containerized development environment.
-      <br /><br />
-      <strong>Laravel · React · MySQL · Docker · Nginx</strong>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Isalvan/flowt">
+  <img src="./assets/flowt-card.svg" width="100%" alt="Flowt project" />
+</a>
+
+Personal finance platform that transforms bank notifications from Gmail into structured movements and financial insights.
+
+**React · TypeScript · Python · Firebase · Gmail API · Gemini**
+
+<a href="https://github.com/Isalvan/jobify-devel">
+  <img src="./assets/jobify-card.svg" width="100%" alt="Jobify Devel project" />
+</a>
+
+Employment platform with role-based access, job applications, notifications, chat and a containerized development environment.
+
+**Laravel · React · MySQL · Docker · Nginx**
 
 ## In the lab
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/aether-card.svg" width="100%" alt="Aether project" />
-      <br />
-      Modular backend connecting several personal applications through shared authentication, events and platform services.
-      <br /><br />
-      <strong>Laravel · PostgreSQL · Redis · Docker</strong>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/zenith-card.svg" width="100%" alt="ZenithFit project" />
-      <br />
-      Fitness tracking PWA with offline support, workout analytics, automated integrations and an MCP interface.
-      <br /><br />
-      <strong>React · Firebase · Vitest · GitHub Actions · MCP</strong>
-    </td>
-  </tr>
-</table>
+<img src="./assets/aether-card.svg" width="100%" alt="Aether project" />
+
+Modular backend connecting several personal applications through shared authentication, events and platform services.
+
+**Laravel · PostgreSQL · Redis · Docker**
+
+<img src="./assets/zenith-card.svg" width="100%" alt="ZenithFit project" />
+
+Fitness tracking PWA with offline support, workout analytics, automated integrations and an MCP interface.
+
+**React · Firebase · Vitest · GitHub Actions · MCP**
 
 ## Toolbox
 

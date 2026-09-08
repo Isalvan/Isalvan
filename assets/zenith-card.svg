@@ -1,0 +1,13 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="220"><stop stop-color="#071420"/><stop offset="1" stop-color="#082334"/></linearGradient>
+    <linearGradient id="peak" x1="516" y1="177" x2="682" y2="44"><stop stop-color="#06B6D4"/><stop offset="1" stop-color="#67F6FF"/></linearGradient>
+  </defs>
+  <rect width="760" height="220" rx="20" fill="url(#bg)"/>
+  <path d="M488 178L577 63L615 111L655 44L721 178H488Z" fill="#00E5FF" fill-opacity="0.06" stroke="url(#peak)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M536 178L577 124L598 150L615 111L649 178" stroke="#67F6FF" stroke-opacity="0.34" stroke-width="2"/>
+  <text x="42" y="94" fill="#7E9FB0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">IN DEVELOPMENT</text>
+  <text x="42" y="142" fill="#F2FBFF" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">ZenithFit</text>
+  <text x="42" y="174" fill="#83A6B6" font-family="Arial, Helvetica, sans-serif" font-size="16">Training data &amp; automation</text>
+  <rect x="1" y="1" width="758" height="218" rx="19" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="2"/>
+</svg>
